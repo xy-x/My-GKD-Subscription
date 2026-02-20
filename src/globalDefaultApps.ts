@@ -30,6 +30,7 @@ export const blackListAppIDs: string[] = [
   'idm.internet.download.manager.plus', // 1DM+
   'com.mxtech.videoplayer', // MX播放器
   'com.mxtech.videoplayer.pro', // MX播放器专业版
+  
   'com.github.kr328.clash', // Clash for Android
   'com.x8bit.bitwarden', // Bitwarden
   'org.localsend.localsend_app', // LocalSend
